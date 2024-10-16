@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.seleniumexpress.sebank.restcontrollers.models.CreateAccountRequestModel;
-import com.seleniumexpress.sebank.restcontrollers.models.CreateAccountRequestModeloriginal;
+import com.seleniumexpress.sebank.restcontrollers.models.CreateAccountRequestModel;
 
 @RestController
 @RequestMapping("/account")
